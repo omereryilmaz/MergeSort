@@ -16,8 +16,13 @@ if(e>1)
   4. İkinci ve üçüncü adımda sıralanmışları birleştir.
       Call merge(arr, s, m, e)
       
-      
+
+:+1:
+
+```C#
 Avarage Case  O(nlogn), 
 Worst Case    O(nlogn), 
 Best Case     O(nlogn)
+```
+
   
