@@ -19,9 +19,9 @@ if(e>1)
 
 :+1:
 
-```C#
-Avarage Case  O(nlogn), 
-Worst Case    O(nlogn), 
+```
+Avarage Case  O(nlogn)
+Worst Case    O(nlogn)
 Best Case     O(nlogn)
 ```
 
