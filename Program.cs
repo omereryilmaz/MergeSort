@@ -107,7 +107,7 @@ namespace MergeSortAA
        
         static void Main(string[] args)
         {
-            int[] arr = { 5, 9, 2, 3, 6, 4, 11, 10, 8, 14 }; // siralanacak dizimiz
+            int[] arr = { 4, 7, 3, 1, 9, 10, 15, 19, 8, 12 }; // siralanacak dizimiz
 
             MergeSort merge = new MergeSort();
 
